@@ -7,4 +7,5 @@ DIGITAL LIBRARY MANAGEMENT
 There are essentially two modules of this software:-
 
 • Admin module: Admin will have complete control over the system. Admin has permissions to update, delete or modify.asy existing record or make a new entry (books and members).
+
 • Users: The normal users enjoy only limited privileges. They have a view access to the books. They can browse through the categories, search for a particular book, return and Issue a book. They are also provided with an email option in case of a query.
